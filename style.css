@@ -1,0 +1,11 @@
+.photo {
+    vertical-align: middle;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  };
+  .body {
+      width: 1024px;
+      margin: 0 auto;
+  };
+
