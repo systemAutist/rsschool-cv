@@ -1,11 +1,13 @@
+html {
+    width: 1020px;
+    margin: auto;
+    font-family: Calibri, sans-serif;
+    font-size: 20px;
+}
 .photo {
     vertical-align: middle;
     width: 250px;
     height: 250px;
     border-radius: 50%;
-  };
-  .body {
-      width: 1024px;
-      margin: 0 auto;
-  };
+  }
 
